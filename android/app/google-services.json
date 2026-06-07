@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537505299268",
+    "project_id": "jewelrystore-3c7e4",
+    "storage_bucket": "jewelrystore-3c7e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537505299268:android:5c884b2ab05f122f6c3511",
+        "android_client_info": {
+          "package_name": "com.example.semproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UO4gBCUVtfV6xaUMB3VK-cNlK16Tt1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
